@@ -3,7 +3,7 @@ Professional template with license, version audit
 
 Using Firebase - Realtime database to manage the license
 
-Using "Microsoft Visual Studio Installer Projects" to produce a "msi" file and "dropbox" as webhost
+Using "Microsoft Visual Studio Installer Projects" to produce a "msi" file and "dropbox" as webhost to manage the version
 
 p/s : You could download "binh_template.rar" as full zipped project
 
